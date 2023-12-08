@@ -1,0 +1,30 @@
+Documentation
+Part 1: Training Model in Google Colab
+Accessing Colab File:
+
+Open the provided Colab file.
+Mount your Google Drive to access and store necessary files.
+Dataset Upload:
+
+Upload the downloaded dataset to the Colab environment.
+Ensure the dataset is available for training, validation, and testing purposes.
+Training, Validation, Testing:
+
+Perform training, validation, and testing of the model within the Colab environment.
+Save the training results or model checkpoints in the designated 'run/train' directory for future use.
+Part 2: Training Model in Jupyter Notebook and Applying to Videos
+Dataset Download:
+
+Download the dataset from the provided link.
+Remove any unnecessary parts or data that are not relevant to the intended task.
+Training and Validation:
+
+Open the Jupyter Notebook in your local environment.
+Perform model training and validation using the prepared dataset.
+Save the trained model weights in a '.pth' file for future use.
+Applying Model to Videos:
+
+Access the 'vid' folder containing source videos.
+Utilize OpenCV to apply the trained model to the videos for the specified task.
+Process the videos, applying the model's predictions or overlays as required.
+This structured documentation outlines the steps for both training the model in Google Colab and locally in a Jupyter Notebook, along with applying the trained model to videos using OpenCV. It provides clear instructions for accessing files, handling datasets, training models, and applying them to video data. Adjustments can be made as per the specific procedures or requirements of the tasks involved.
