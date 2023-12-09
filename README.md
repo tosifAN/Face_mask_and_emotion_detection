@@ -38,7 +38,7 @@ This project involves training a YOLOv8 object detection model for face mask det
 
 ## Resources
 
-- https://www.kaggle.com/datasets/omkargurav/face-mask-dataset(face_mask_dataset_link)
-- https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset(emotion_dataset_link)
-- https://docs.ultralytics.com/(yolov8_documentation_link)
+- https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+- https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
+- https://docs.ultralytics.com
 
